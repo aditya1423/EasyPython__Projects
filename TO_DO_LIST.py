@@ -1,11 +1,6 @@
 
 
 
-    
-
-
-
-
 # Initialize task list globally
 task = []
 
